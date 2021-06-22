@@ -1,0 +1,42 @@
+
+
+
+
+/* !utility bg e border */
+/* ?no boodstrap */
+/* border */
+.my-brd-red{
+    border: 1px dashed red;
+}
+.my-brd-blue{
+    border: 1px dashed blue;
+}
+.my-brd-green{
+    border: 1px dashed green;
+}
+.my-brd-yellow{
+    border: 1px dashed yellow;
+}
+.my-brd-black{
+    border: 1px dashed black;
+}
+.my-brd-gray{
+    border: 1px dashed gray;
+}
+
+/* backgroun color  */
+.my-bg-rb{
+    background-color: royalblue;
+}
+.my-bg-bw{
+    background-color: brown;
+}
+.my-bg-bv{
+    background-color: blueviolet;
+}
+.my-bg-yg{
+    background-color: yellowgreen;
+}
+.my-bg-gr{
+    background-color: goldenrod;
+}
