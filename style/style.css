@@ -23,6 +23,9 @@
 .my-brd-gray{
     border: 1px dashed gray;
 }
+.my-brd-white{
+    border: 1px dashed white;
+}
 
 /* backgroun color  */
 .my-bg-rb{
